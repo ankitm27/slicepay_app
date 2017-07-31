@@ -24,11 +24,13 @@ Move into project backend folder where paskage.json is available and run npm ins
 Move into project frontend folder where paskage.json is available and run npm install
 
 for running frontend move into frontend folder and run pm2 start frontend
+
 for running backend folder move into backend folder and run pm2 start www
 
 access the app at http://127.0.0.1:8080
+
 nginx proxy is set for deployed app
 
 server link - http://52.221.212.105/#!/signup
-Move into bin folder and run the commnad pm2 start www
+
 
